@@ -1,6 +1,8 @@
-Repository untuk pengumpulan tugas Mini Project sebagai tugas asistensi praktikum 1 Dasar Pemrograman Bahasa C
+Pengumpulan tugas Mini Project sebagai tugas asistensi praktikum 1 Dasar Pemrograman Bahasa C<br>
+Nama: Alya Kusuma Nurjannah<br>
+NRP : 5022261103
 
-**Deskripsi Program**
+**Deskripsi Program**<br>
 Program Foodie Special ID Generator merupakan program yang membuat ID unik. Program menerima beberapa input dari pengguna, antara lain nama, jenis kelamin, tanggal lahir, bulan lahir, tahun lahir, dan makanan favorit. Data tersebut kemudian diolah menggunakan beberapa operasi dan digabungkan dengan fungsi sprintf() sehingga menghasilkan sebuah ID yang terdiri dari kombinasi huruf dan angka. Kemudian, ID ditampilkan bersama dengan nama dan makanan favorit pengguna.
 
 **Cara Kerja Program**
@@ -32,4 +34,5 @@ ID merupakan kombinasi dengan urutan berikut:
 9. Variabel "operasi2"
 10. Karakter pertama variabel "food"
 
+**Tampilan Output**
 <img width="1204" height="681" alt="Tampilan Output" src="https://github.com/user-attachments/assets/b906d8d7-8bab-4059-9bfc-47a2abbbe590" /># Asistensi-DasProg-P1-Alya-Kusuma-N-5022261103
