@@ -21,7 +21,7 @@ Program Foodie Special ID Generator merupakan program yang membuat ID unik. Prog
 13. Program menampilkan ID, nama, dan makanan favorit sebagai output akhir.
 14. Program selesai.
 
-**Kombinasi ID**
+**Kombinasi ID**<br>
 ID merupakan kombinasi dengan urutan berikut:
 1. Karakter pertama variabel "name"
 2. Karakter kedua variabel "name"
@@ -35,4 +35,4 @@ ID merupakan kombinasi dengan urutan berikut:
 10. Karakter pertama variabel "food"
 
 **Tampilan Output**
-<img width="1204" height="681" alt="Tampilan Output" src="https://github.com/user-attachments/assets/b906d8d7-8bab-4059-9bfc-47a2abbbe590" /># Asistensi-DasProg-P1-Alya-Kusuma-N-5022261103
+<img width="1204" height="681" alt="Tampilan Output" src="https://github.com/user-attachments/assets/b906d8d7-8bab-4059-9bfc-47a2abbbe590" />
