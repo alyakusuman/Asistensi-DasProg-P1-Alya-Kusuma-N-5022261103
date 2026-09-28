@@ -1,4 +1,3 @@
-<img width="1204" height="681" alt="Tampilan Output" src="https://github.com/user-attachments/assets/b906d8d7-8bab-4059-9bfc-47a2abbbe590" /># Asistensi-DasProg-P1-Alya-Kusuma-N-5022261103
 Repository untuk pengumpulan tugas Mini Project sebagai tugas asistensi praktikum 1 Dasar Pemrograman Bahasa C
 
 **Deskripsi Program**
@@ -33,4 +32,4 @@ ID merupakan kombinasi dengan urutan berikut:
 9. Variabel "operasi2"
 10. Karakter pertama variabel "food"
 
-![Tampilan Output](Tampilan-Output.png)
+<img width="1204" height="681" alt="Tampilan Output" src="https://github.com/user-attachments/assets/b906d8d7-8bab-4059-9bfc-47a2abbbe590" /># Asistensi-DasProg-P1-Alya-Kusuma-N-5022261103
